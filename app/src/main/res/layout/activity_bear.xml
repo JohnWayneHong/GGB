@@ -6,8 +6,8 @@
     android:gravity="center">
 
     <TextView
-        android:layout_width="300dp"
-        android:layout_height="300dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_gravity="center_vertical"
         android:gravity="center"
         android:text="I'M GGB"
@@ -16,11 +16,21 @@
         android:textStyle="bold"/>
 
     <TextView
-        android:layout_width="300dp"
-        android:layout_height="300dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_gravity="center_vertical"
         android:gravity="center"
         android:text="I'M GGX"
+        android:textColor="@color/black"
+        android:textSize="50sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:text="I'M GGT"
         android:textColor="@color/black"
         android:textSize="50sp"
         android:textStyle="bold"/>
