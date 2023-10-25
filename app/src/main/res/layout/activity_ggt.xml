@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical"
         android:gravity="center"
-        android:text="I'M GGT"
+        android:text="I'M  Rubbish GGT"
         android:textColor="@color/black"
         android:textSize="50sp"
         android:textStyle="bold"/>
