@@ -10,17 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical"
         android:gravity="center"
-        android:text="I'M from China"
-        android:textColor="@color/black"
-        android:textSize="50sp"
-        android:textStyle="bold"/>
-
-    <TextView
-        android:layout_width="300dp"
-        android:layout_height="300dp"
-        android:layout_gravity="center_vertical"
-        android:gravity="center"
-        android:text="I'M from China"
+        android:text="I'M GGB"
         android:textColor="@color/black"
         android:textSize="50sp"
         android:textStyle="bold"/>
@@ -40,7 +30,17 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical"
         android:gravity="center"
-        android:text="I'M GGT"
+        android:text="I'M 帮主"
+        android:textColor="@color/black"
+        android:textSize="50sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:text="I'M GGB 帮主"
         android:textColor="@color/black"
         android:textSize="50sp"
         android:textStyle="bold"/>
