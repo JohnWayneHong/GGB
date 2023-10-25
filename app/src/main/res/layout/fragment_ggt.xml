@@ -15,5 +15,14 @@
         android:textSize="50sp"
         android:textStyle="bold"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:text="准备造反ing"
+        android:textColor="@color/black"
+        android:textSize="50sp"
+        android:textStyle="bold"/>
 
 </LinearLayout>
