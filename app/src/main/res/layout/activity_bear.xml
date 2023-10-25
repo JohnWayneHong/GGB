@@ -40,7 +40,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical"
         android:gravity="center"
-        android:text="I'M GGB 帮主"
+        android:text="I'M GGB 阿熊帮主"
         android:textColor="@color/black"
         android:textSize="50sp"
         android:textStyle="bold"/>
