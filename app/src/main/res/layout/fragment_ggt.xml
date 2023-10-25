@@ -10,10 +10,19 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical"
         android:gravity="center"
-        android:text="镇压 ！！！！！！！！！！GGT"
+        android:text="镇压 GGT 成功！"
         android:textColor="@color/black"
         android:textSize="50sp"
         android:textStyle="bold"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:text="GGT：投降！！！"
+        android:textColor="@color/black"
+        android:textSize="50sp"
+        android:textStyle="bold"/>
 
 </LinearLayout>
