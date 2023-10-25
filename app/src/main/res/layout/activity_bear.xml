@@ -10,7 +10,7 @@
         android:layout_height="300dp"
         android:layout_gravity="center_vertical"
         android:gravity="center"
-        android:text="I'M Chinese"
+        android:text="I'M GGB"
         android:textColor="@color/black"
         android:textSize="50sp"
         android:textStyle="bold"/>
@@ -20,7 +20,7 @@
         android:layout_height="300dp"
         android:layout_gravity="center_vertical"
         android:gravity="center"
-        android:text="I'M GGB"
+        android:text="I'M GGX"
         android:textColor="@color/black"
         android:textSize="50sp"
         android:textStyle="bold"/>
