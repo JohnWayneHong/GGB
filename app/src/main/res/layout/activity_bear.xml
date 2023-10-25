@@ -25,4 +25,14 @@
         android:textSize="50sp"
         android:textStyle="bold"/>
 
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:text="I'M from China"
+        android:textColor="@color/black"
+        android:textSize="50sp"
+        android:textStyle="bold"/>
+
 </LinearLayout>
